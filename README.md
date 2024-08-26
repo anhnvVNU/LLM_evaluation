@@ -5,3 +5,5 @@ Dataset:
   + VMLU
   + Hellaswag
   + ANLI
+  + GSM8k (Math dataset)
+  + ARC Challenge
